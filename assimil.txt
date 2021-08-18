@@ -1,37 +1,72 @@
-# ADJECTIFS
+---------------------------------------------------------------------
+NOMS
+---------------------------------------------------------------------
 
-# ADVERBES
+al-baytou                   la maison[suj.]
+al-bintou                   la fille, la jeune fille
+al-kàtibou                  l'écrivain
+al-kitàba                   le livre[dir.]
+al-maktabou                 le bureau
+al-oustàdhou                le maître
+al-qalamou                  le stylo
+ar-rajoulou                 l'homme[suj.]
+al-waladou                  l'enfant[suj.]
+al-wàlidou                  le père[suj.]
 
-# CONJONCTIONS
+---------------------------------------------------------------------
+VERBES
+---------------------------------------------------------------------
+
+akhadhta                    tu as pris (masc.)
+dakhala                     il est entré, il entra
+darasa                      il a étudié, il étudia
+    darastou                j'ai étudié
+jalasa                      il s'est assis, il s'assit
+kataba                      il a écrit, il écrivit
+    katabtou                j'ai écrit
+kharajat                    elle est sortie
+qàla                        il a dit
+wajada                      il a trouvé, il trouva
+
+---------------------------------------------------------------------
+ADJECTIFS
+---------------------------------------------------------------------
+
+-ki                         ton/ta/tes (possesseur féminin)
+
+---------------------------------------------------------------------
+PRONOMS
+---------------------------------------------------------------------
+
+anà                         moi
+anta                        toi (masc.)
+mà ?                        quoi ? qu'est-ce que ?
+man ?                       qui ?
+
+---------------------------------------------------------------------
+PRÉPOSITIONS
+---------------------------------------------------------------------
+
+bi-                         avec
+fi                          dans
+li-                         à, pour
+
+---------------------------------------------------------------------
+CONJONCTIONS
+---------------------------------------------------------------------
 
 wa                          et
 
-# DÉTERMINANTS
+---------------------------------------------------------------------
+ADVERBES
+---------------------------------------------------------------------
 
-# INTERJECTIONS
+---------------------------------------------------------------------
+DÉTERMINANTS
+---------------------------------------------------------------------
 
-# NOMS
-
-al-baytou                 la maison[suj.]
-al-kàtibou                l'écrivain
-al-kitàba                 le livre[dir.]
-ar-rajoulou               l'homme[suj.]
-al-waladou                l'enfant[suj.]
-al-wàlidou                le père[suj.]
+---------------------------------------------------------------------
+INTERJECTIONS
+---------------------------------------------------------------------
 
 
-# PRÉPOSITIONS
-
-fi                          dans
-
-# PRONOMS
-
-mà ?                        quoi ? qu'est-ce que ?
-
-# VERBES
-
-dakhala                     il est entré, il entra
-darasa                      il a étudié, il étudia
-jalasa                      il s'est assis, il s'assit
-kataba                      il a écrit, il écrivit
-wajada                      il a trouvé, il trouva
